@@ -1,10 +1,4 @@
 
-![image](preview/routing-in-vue.png)
-
-![image](preview/finale-preview.gif)
-
-> A Vue.js project
-
 ## Build Setup
 
 ``` bash
