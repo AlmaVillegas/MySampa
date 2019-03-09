@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
+import singup from '@/components/Signup'
 import home from '@/components/home'
 import blog from '@/components/blog'
 import services from '@/components/services'
@@ -13,8 +14,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'home',
-      component: home
+      name: 'singup',
+      component: singup
     },
     {
       path: '/home',
