@@ -21,33 +21,33 @@
 				title:"details",
 				products:[
 				{
-				productTitle:"ABCN",
-				image       : require('../assets/images/product1.png'),
+				productTitle:"Mazatlan",
+				image       : require('../assets/images/maz.jpg'),
 				productId:1
 				},
 				{
-				productTitle:"KARMA",
-				image       : require('../assets/images/product2.png'),
+				productTitle:"XV",
+				image       : require('../assets/images/xv.jpg'),
 				productId:2
 				},
 				{
-				productTitle:"Tino",
-				image       : require('../assets/images/product3.png'),
+				productTitle:"Posada",
+				image       : require('../assets/images/dic1.jpg'),
 				productId:3
 				},
 				{
-				productTitle:"EFG",
-				image       : require('../assets/images/product4.png'),
+				productTitle:"Navidad",
+				image       : require('../assets/images/nav.jpg'),
 				productId:4
 				},
 				{
-				productTitle:"MLI",
-				image       : require('../assets/images/product5.png'),
+				productTitle:"Hidalgo(Vacaciones)",
+				image       : require('../assets/images/hid.jpg'),
 				productId:5
 				},
 				{
-				productTitle:"Banans",
-				image       : require('../assets/images/product6.png'),
+				productTitle:"Tequila",
+				image       : require('../assets/images/teq.jpg'),
 				productId:6
 				}
 				]
