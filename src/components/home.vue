@@ -17,37 +17,38 @@ export default {
     return {
       title: 'Home',
       products:[
-      {
-        productTitle:"ABCN",
-        image       : require('../assets/images/product1.png'),
-        productId:1
-      },
-      {
-        productTitle:"KARMA",
-        image       : require('../assets/images/product2.png'),
-        productId:2
-      },
-      {
-        productTitle:"Tino",
-        image       : require('../assets/images/product3.png'),
-        productId:3
-      },
-      {
-        productTitle:"EFG",
-        image       : require('../assets/images/product4.png'),
-        productId:4
-      },
-      {
-        productTitle:"MLI",
-        image       : require('../assets/images/product5.png'),
-        productId:5
-      },
-      {
-        productTitle:"Banans",
-        image       : require('../assets/images/product6.png'),
-        productId:6
-      }
-      ]
+				{
+				productTitle:"Mazatlan",
+				image       : require('../assets/images/maz.jpg'),
+				productId:1
+				},
+				{
+				productTitle:"XV",
+				image       : require('../assets/images/xv.jpg'),
+				productId:2
+				},
+				{
+				productTitle:"Posada",
+				image       : require('../assets/images/dic1.jpg'),
+				productId:3
+				},
+				{
+				productTitle:"Navidad",
+				image       : require('../assets/images/nav.jpg'),
+				productId:4
+				},
+				{
+				productTitle:"Hidalgo(Vacaciones)",
+				image       : require('../assets/images/hid.jpg'),
+				productId:5
+				},
+				{
+				productTitle:"Tequila",
+				image       : require('../assets/images/teq.jpg'),
+				productId:6
+				}
+				]
+				 
     }
   },
   methods:{

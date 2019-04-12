@@ -5,35 +5,30 @@
 			<div class="col-md-4">
 				<div class="card">
 					<div class="card-header">
-						<h3>Vus.js</h3>
+						<h3>Tu bonita voz</h3>
 					</div>
 					<div class="card-body">
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+						Solo con escucharte mi amor, haces que mi corazón se acelere demasiado,
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="card">
 					<div class="card-header">
-						<h3>Angular</h3>
+						<h3>Tu forma de ser</h3>
 					</div>
 					<div class="card-body">
-						
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+						Eres serio y divertivo no hay dia que no me divierta contigo, te lo dije eres muy ocurrente y eso me gusta. 
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="card">
 					<div class="card-header">
-						<h3>React</h3>
+						<h3>Eres unico</h3>
 					</div>
 					<div class="card-body">
-						
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+						Como tu no hay dos mi amor, eres super inteligente, super guapo, bailas super bonito, eres lindo conmigo, eres el memor novio del mundo.
 					</div>
 				</div>
 			</div>
@@ -45,7 +40,7 @@
 		name:'blog',
 		data (){
 			return{
-				title:'My Sampa'
+				title:'Tres Razones importantes de las cuales me enamore de ti!!'
 			}
 		}
 	}
