@@ -14,9 +14,9 @@
             <li class="nav-item">
             <router-link class="nav-link" to="/services">Canción Especial</router-link>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
              <router-link class="nav-link" to="/contact">contact</router-link>
-            </li>
+            </li> -->
           </ul>
         </div>
         </div>
